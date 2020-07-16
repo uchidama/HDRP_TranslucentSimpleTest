@@ -729,8 +729,8 @@ MonoBehaviour:
       enableFptlForForwardOpaque: 0
       enableBigTilePrepass: 0
       isFptlEnabled: 0
-  clearColorMode: 0
-  backgroundColorHDR: {r: 0.025, g: 0.07, b: 0.19, a: 0}
+  clearColorMode: 1
+  backgroundColorHDR: {r: 0.10034709, g: 0.5188679, b: 0.32159984, a: 0}
   clearDepth: 1
   volumeLayerMask:
     serializedVersion: 2
@@ -742,9 +742,9 @@ MonoBehaviour:
   stopNaNs: 0
   taaSharpenStrength: 0.6
   physicalParameters:
-    m_Iso: 200
+    m_Iso: 400
     m_ShutterSpeed: 0.005
-    m_Aperture: 16
+    m_Aperture: 5.3
     m_BladeCount: 5
     m_Curvature: {x: 2, y: 11}
     m_BarrelClipping: 0.25
